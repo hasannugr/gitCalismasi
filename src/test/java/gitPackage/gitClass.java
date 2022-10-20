@@ -12,11 +12,7 @@ public class gitClass {
         String hesapBilgileri= "27092015";
         String esDruumu="tövbekar";
         boolean cocuk=false;
-
         String adres= "NEF ARENA";
-        int i = 10;
-        String hesapBilgileri = "27092015";
-        String adres = "NEF ARENA GS";
         String il = "İSTANBUL";
     }
 
