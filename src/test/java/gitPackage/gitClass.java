@@ -8,12 +8,11 @@ public class gitClass {
         String name = "hasan";
         String surname = "huseyin";
         int i=10;
-
         String hesapBilgileri= "27092015";
         String esDruumu="tövbekar";
-        boolean cocuk=false;
+      /*  boolean cocuk=false;
         String adres= "NEF ARENA";
-        String il = "İSTANBUL";
+        String il = "İSTANBUL";*/
     }
 
 
