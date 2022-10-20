@@ -11,7 +11,7 @@ public class gitClass {
         String surname = "huseyin";
         int i=10;
 
-        String adres= "NEF ARENA";
+        String adres= "NEF ARENA GALATASARAY";
         String il = "İSTANBUL";
 
 
