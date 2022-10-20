@@ -9,11 +9,11 @@ public class gitClass {
         String surname = "huseyin";
         int i=10;
 
-        String hesapBilgileri= "27092015";
-        String esDruumu="tövbekar";
-        boolean cocuk=false;
-        String adres= "NEF ARENA";
-        String il = "İSTANBUL";
+        String hesapBilgileri= "27092017";
+        String esDruumu="bekar";
+        boolean cocuk=true;
+        String adres= "bursa";
+        String il = "osmagazi";
     }
 
 
