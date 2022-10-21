@@ -1,5 +1,5 @@
 package gitPackage;
 
-public class class_2 {
+public class Class_2 {
 
 }
